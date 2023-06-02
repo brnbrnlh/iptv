@@ -1,3 +1,7 @@
+v20.10.2
+- Translations updates from Weblate
+	- fr_fr, ko_kr
+
 v20.10.1
 - Remove empty media groups before sending to Kodi PVR
 
